@@ -1,6 +1,12 @@
 console.log('this is loaded');
 
-exports.spotify = {
-  id: process.env.SPOTIFY_ID,
-  secret: process.env.SPOTIFY_SECRET
-};
+
+var searchOMDB = function(movie) {
+    var queryURL = "https://www.omdbapi.com/?t=" + movie + fb8ec145;
+    $.ajax({
+      url: queryURL,
+      method: "GET"
+    }).then(function(response) {
+      createRow(response);
+    });
+  };
