@@ -9,3 +9,8 @@ Node homework
 6. Clearly list the technologies used in the app
 7. State your role in the app development
 
+
+LIRI-Bot
+LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+
+LIRI uses the following commands:
