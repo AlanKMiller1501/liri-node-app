@@ -9,4 +9,3 @@ Node homework
 6. Clearly list the technologies used in the app
 7. State your role in the app development
 
-
