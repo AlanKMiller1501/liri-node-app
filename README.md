@@ -8,3 +8,5 @@ Node homework
 5. Contain a link to a deployed version of the app
 6. Clearly list the technologies used in the app
 7. State your role in the app development
+
+

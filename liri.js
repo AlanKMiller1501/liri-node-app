@@ -23,3 +23,7 @@ function SearchSpotify(query){
         console.log(data.tracks.items[0].artists[0].name); 
     });
 }
+
+function SearchOmdb(query){
+    
+}
