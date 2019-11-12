@@ -7,7 +7,7 @@ var command = process.argv[2];
 var searchTerm = process.argv.splice(3).join(" ");
 
 RunLiri(command, searchTerm);
-
+//look here for the command to run the app//
 function RunLiri(func, find){
     if(func === "spotify-this-song"){
         return SearchSpotify(find)
