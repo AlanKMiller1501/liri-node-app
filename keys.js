@@ -5,11 +5,10 @@ exports.spotify = {
 
 
 exports.omdb = {
-  api_key: process.env.OMDB_API_KEY
- // http://www.omdbapi.com/?i=tt3896198&apikey=fb8ec145 //
+ api_key: process.env.OMDB_API_KEY
 }
 
-exports.bandsInTown = {
-  api_key: process.env.BANDSINTOWN_API_KEY
-  //api_key: process.env.OMDB_API_KEY
-}
+//exports.bandsInTown = {
+ // api_key: process.env.BANDSINTOWN_API_KEY
+  //api_key: 
+//}
