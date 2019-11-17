@@ -14,3 +14,12 @@ LIRI-Bot
 LIRI is like iPhone's SIRI except, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data. Meaning you tyepe instead of talk.
 
 LIRI works thusly:
+
+So far it has the app has Spotify and OMB fully functioning.
+
+1. to use Spotify navigate through the node terminal and simply type Spotify-this-song and the relevant information for said song will pop up. Right now it's just the band, but I can virtually make it give out any information Spotify has in its database.
+
+2. The OMBD site works essentially the samee except the command is movie-this
+
+
+

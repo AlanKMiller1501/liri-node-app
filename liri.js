@@ -35,10 +35,10 @@ function doIt() {
     var randomArr = text.split(",");
     console.log(randomArr);
 
-    for(var i = 0; i < randomArr.length; i++){
-        if(i % 2 === 0){
-            RunLiri(randomArr[i], randomArr[i+1])
-        }
+    for (var i = 0; i < randomArr.length; i++) {
+      if (i % 2 === 0) {
+        RunLiri(randomArr[i], randomArr[i + 1]);
+      }
     }
     // RunLiri(randomArr[0], randomArr[1])
     // RunLiri(randomArr[2], randomArr[3])
